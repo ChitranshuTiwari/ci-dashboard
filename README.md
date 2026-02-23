@@ -1,6 +1,6 @@
 # CI Dashboard
 
-> A hands-on DevOps portfolio project demonstrating CI/CD metrics visualization with React. Built for learning and GSoC preparation.
+> A hands-on DevOps portfolio project demonstrating CI/CD metrics visualization with React.
 
 React dashboard to visualize CI/CD pipeline metrics - build times, success rates, failure patterns.
 
